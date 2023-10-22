@@ -1,6 +1,6 @@
-    import java.awt.*;
+package ex1;
 
-    public class point {
+public class point {
         int abscisse;
         int ordonnée;
         char name;

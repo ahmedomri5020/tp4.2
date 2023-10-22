@@ -1,3 +1,7 @@
+package ex1;
+
+import ex1.point;
+
 public class pointCol extends point {
     private String couleur;
 
